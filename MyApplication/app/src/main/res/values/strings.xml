@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message">Salut tout le monde</string>
+    <string name="mdp">mot de passe</string>
+    <string name="btnTxt">OK</string>
+
+</resources>

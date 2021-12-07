@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD3</string>
+    <string name="roll">Lancer le dé</string>
+    <string name="user_input">Nombre de faces des dés</string>
+</resources>
